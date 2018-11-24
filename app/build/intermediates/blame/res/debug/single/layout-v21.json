@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Stephen\\Desktop\\MySoftwareProjects\\AndroidApps\\Jotter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Stephen\\.android\\build-cache\\acd253e5c29e66082e03fcdbb8b57281cca3388e\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stephen\\Desktop\\MySoftwareProjects\\AndroidApps\\Jotter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Stephen\\.android\\build-cache\\acd253e5c29e66082e03fcdbb8b57281cca3388e\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stephen\\Desktop\\MySoftwareProjects\\AndroidApps\\Jotter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Stephen\\.android\\build-cache\\acd253e5c29e66082e03fcdbb8b57281cca3388e\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stephen\\Desktop\\MySoftwareProjects\\AndroidApps\\Jotter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Stephen\\.android\\build-cache\\acd253e5c29e66082e03fcdbb8b57281cca3388e\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
