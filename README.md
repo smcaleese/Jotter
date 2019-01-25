@@ -1,2 +1,2 @@
 # Jotter
-Jotter allows you to save information on a single page just like a whiteboard.
+Jotter allows you to save text on a single page just like a whiteboard.
