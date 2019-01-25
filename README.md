@@ -1,1 +1,2 @@
-<h1>Jotter - A text editor app</h1>
+# Jotter
+Jotter allows you to save information on a single page just like a whiteboard.
